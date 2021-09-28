@@ -1,3 +1,11 @@
+/**
+Comparator class for Anagrams.java.
+
+Sorts the dictionary by length in descending order, and then by alphabetical order.
+
+@author Mathew Shields, Alex Lake-Smith
+**/
+
 import java.util.Comparator;
 
 public class LengthComparator implements Comparator<String> {
