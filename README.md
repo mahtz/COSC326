@@ -1,5 +1,5 @@
 # COSC326
-All programs from COSC326 - Effective Programming Semester 2 2021, a paper in which we were tasked with 13 etudes (assignments) to complete.
+All programs from COSC326 - Effective Programming Semester 2 2021, a paper in which we were tasked with 12 etudes (assignments) to complete.
 
 These were:
 
@@ -19,12 +19,10 @@ These were:
 
 8 - Woof
 
-9 - Pulse Counting
+9 - Epidemic
 
-10 - Epidemic
+10 - Transport Layer Security (TLS) Attacks
 
-11 - Transport Layer Security (TLS) Attacks
+11 - Contact Tracing
 
-12 - Contact Tracing
-
-13 - Bug Squashing
+12 - Bug Squashing
